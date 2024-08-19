@@ -4,7 +4,7 @@
 This project involves analyzing pizza sales data to derive actionable insights, such as the most ordered pizza types, the revenue generated from different pizza categories, and other key performance metrics. 
 The data is queried using SQL to answer specific business questions.
 
-# Dataets
+# Datasets
 The dataset consists of multiple tables representing various aspects of the pizza sales process:
 Orders: Contains information about each customer order.
 Order Details: Includes details such as the pizza type, size, and quantity ordered in each order.
